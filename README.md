@@ -2,13 +2,13 @@
 
 ## Client and Server functionalities
 The command syntax allows the user to; create accounts, start sessions to serve specific accounts,and to exit the client process altogether: 
-*create <accountname (char) >
-*serve <accountname (char) >
-*deposit <amount (double) >
-*withdraw <amount (double) >
-*query
-*end
-*quit
+* create <accountname (char) >
+* serve <accountname (char) >
+* deposit <amount (double) >
+* withdraw <amount (double) >
+* query
+* end
+* quit
 
 
 ## Running the tests
@@ -23,5 +23,5 @@ Local test does not work. (Only remote)
 
 
 ## Built by
-* [Hongju]
-* [Jeeho]
+* [Hongju Shin]
+* [Jeeho Ahn]
